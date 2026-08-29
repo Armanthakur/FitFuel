@@ -1,2 +1,2 @@
 # FitFuel
-This is my new project for healthy recipies
+This is my new MERN stack project for healthy recipies
